@@ -1,0 +1,6 @@
+PARA COMPILAR DIGITE MAKE
+PARA FAZER A EXECUÇÃO DIGITE: ./tp3 input.txt 1 -> Para a estratégia 1(Força Bruta)
+                              ./tp3 input.txt 2 -> Para a estratégia 2(Algoritmo KMP)
+                              ./tp3 input.txt 3 -> Para a estratégia 3(ShiftAnd)
+                              
+                              
