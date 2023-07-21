@@ -22,6 +22,7 @@ funções ShiftAnd e ShiftAnd_Reverso para buscar casamentos diretos e reversos,
 tivamente. A função Casamento_ShiftAnd percorreu a lista encadeada de nós e chamou
 as funções ShiftAnd e ShiftAnd_Reverso para buscar o padrão em cada nó.
 
+![teste](https://github.com/nojirilucas/casamento_caracteres/assets/103136574/c9833407-243a-4b43-a8ba-07a4c1736bd5)
 
 
 <table>
