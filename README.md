@@ -22,18 +22,6 @@ funções ShiftAnd e ShiftAnd_Reverso para buscar casamentos diretos e reversos,
 tivamente. A função Casamento_ShiftAnd percorreu a lista encadeada de nós e chamou
 as funções ShiftAnd e ShiftAnd_Reverso para buscar o padrão em cada nó.
 
-Exemplo de entrada:                         Exemplo de saída:
-
-4                                           
-
-ava av                                      S 1
-
-patapon npatapatapatapo                     S 10
-
-isitfriday ohnoitisnt                       N
-
-haskell lleksah                             S 7
-
 
 
 <table>
