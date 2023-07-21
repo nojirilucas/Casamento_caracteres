@@ -43,3 +43,15 @@ S 10
 N
 
 S 7
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/nojirilucas/casamento_caracteres/assets/103136574/a66e1995-32f9-4498-97a5-8346a64f64e8" style="width: 300px; height: 200px;"></td>
+    <td><img src="https://github.com/nojirilucas/casamento_caracteres/assets/103136574/2e010751-3c65-48ec-a989-083c7704e9ad" style="width: 300px; height: 200px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/nojirilucas/casamento_caracteres/assets/103136574/71042acb-fe4c-40a3-a31e-ada9230b9158" style="width: 300px; height: 200px;"></td>
+    <td><img src="https://github.com/nojirilucas/casamento_caracteres/assets/103136574/cd877f8c-2ab4-45be-aa23-9fc6985a657f" style="width: 300px; height: 200px;"></td>
+  </tr>
+</table>
